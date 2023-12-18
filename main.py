@@ -1,6 +1,6 @@
 import telebot #Импорт библиотеки telebot
 from telebot import types #Импорт типов для дальнейшего добавления кнопок
-token='6816111823:AAHTczebujZURGHs9M43Wj-cia1sWXGrucw' #Фиксируем токен, полученный у BotFather
+token='токен' #Фиксируем токен, полученный у BotFather
 bot = telebot.TeleBot(token) #Обозначаем нашего бота
 
 #Алгоритм для применения техники тест-дизайна попарного тестирования
